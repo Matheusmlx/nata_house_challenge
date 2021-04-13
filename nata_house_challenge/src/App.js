@@ -1,5 +1,8 @@
+import React, {useEffect} from 'react'
+import StartShipsList from './pages/starShipsList'
+
 
 export default () => 
     <>
-      <h1>Desafio nata house</h1>
+      <StartShipsList/>
     </>
